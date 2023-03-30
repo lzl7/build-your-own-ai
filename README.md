@@ -1,2 +1,2 @@
-# build-your-own-ai
-Build your own AI tools
+## Audio
+- [Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
